@@ -1,0 +1,47 @@
+.myname {
+    color: red;
+    text-align: center;
+  }
+#table{
+  color: black;
+    margin-left: auto;
+    margin-right: auto;
+border: 10px;
+}
+table, th, td {
+
+    border: 1px solid black;
+  }
+  
+
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+#message{
+  margin-left: 0%;
+}
+img 
+{
+  border-radius: 50%;
+  height: 150px;
+  width: 200px;
+  border-color: purple;
+  border-width: 10px;
+  
+}
+div {
+  background-color:wheat
+  
+  height: auto;
+  width: auto;
+  color: rgb(255, 240, 248);
+ margin: 100px red;
+  padding: 30px;
+  border: 20px solid purple;
+  
+ 
+  
+
+}
